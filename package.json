@@ -11,9 +11,12 @@
     "url": "git+https://github.com/Pech3nyka/frontend-project-44.git"
   },
   "license": "ISC",
-  "author": "Evgeniy Kuzkin",
+  "author": "Pech3nyka",
   "type": "module",
   "bin": {
     "code": "bin/brain-games.js"
+  },
+  "scripts": {
+    "brain-games": "node bin/brain-games.js"
   }
 }
