@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain-games",
+  "homepage": "https://github.com/Pech3nyka/frontend-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/Pech3nyka/frontend-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pech3nyka/frontend-project-44.git"
+  },
+  "license": "ISC",
+  "author": "Evgeniy Kuzkin",
+  "type": "module",
+  "bin": {
+    "code": "bin/brain-games.js"
+  }
+}
