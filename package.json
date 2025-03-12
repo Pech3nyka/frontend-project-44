@@ -18,5 +18,8 @@
   },
   "scripts": {
     "brain-games": "node bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
