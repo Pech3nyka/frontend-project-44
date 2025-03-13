@@ -14,11 +14,13 @@
   "author": "Pech3nyka",
   "type": "module",
   "bin": {
-    "code": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "scripts": {
     "lint": "eslint .",
-    "brain-games": "node bin/brain-games.js"
+    "brain-games": "node bin/brain-games.js",
+    "brain-even": "node bin/brain-even.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
