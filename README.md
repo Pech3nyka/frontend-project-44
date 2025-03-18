@@ -3,6 +3,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/094cdd3f3ae9bb2e9ae5/maintainability)](https://codeclimate.com/github/Pech3nyka/frontend-project-44/maintainability)
 
-[![asciicast](https://asciinema.org/a/bZHmBQqvx5Q9fAepcLhBVbYef)](https://asciinema.org/a/bZHmBQqvx5Q9fAepcLhBVbYef)
+[![asciicast](https://asciinema.org/a/bZHmBQqvx5Q9fAepcLhBVbYef.svg)](https://asciinema.org/a/bZHmBQqvx5Q9fAepcLhBVbYef)
 
-[![asciicast](https://asciinema.org/a/Gpc7SQgidaPplKGuhWonSLgi7)](https://asciinema.org/a/Gpc7SQgidaPplKGuhWonSLgi7)
+[![asciicast](https://asciinema.org/a/Gpc7SQgidaPplKGuhWonSLgi7.svg)](https://asciinema.org/a/Gpc7SQgidaPplKGuhWonSLgi7)
