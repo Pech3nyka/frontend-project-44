@@ -16,13 +16,13 @@ The games are:
 - cd (the required repository)
 - playing
 **asciinema of each step**
-##brain-even
+## brain-even
 [![asciicast](https://asciinema.org/a/UCOoG4onymeRbunoj5jjYLF08.svg)](https://asciinema.org/a/UCOoG4onymeRbunoj5jjYLF08)
-##brain-calc
+## brain-calc
 [![asciicast](https://asciinema.org/a/WkyOzZq4bKMYQ9dIjyxpUyIK1.svg)](https://asciinema.org/a/WkyOzZq4bKMYQ9dIjyxpUyIK1)
-##brain-gcd
+## brain-gcd
 [![asciicast](https://asciinema.org/a/ZkLVY1kQsTOWhKv22gCxAD20L.svg)](https://asciinema.org/a/ZkLVY1kQsTOWhKv22gCxAD20L)
-##brain-progression
+## brain-progression
 [![asciicast](https://asciinema.org/a/xbAcgOSdIUvQVRCMsDwx8qJJG.svg)](https://asciinema.org/a/xbAcgOSdIUvQVRCMsDwx8qJJG)
-##brain-prame
+## brain-prame
 [![asciicast](https://asciinema.org/a/3gOYeGysUo8ZWczVQvbq6BoNS.svg)](https://asciinema.org/a/3gOYeGysUo8ZWczVQvbq6BoNS)
