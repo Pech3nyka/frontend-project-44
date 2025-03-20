@@ -17,7 +17,6 @@ git clone https://github.com/Pech3nyka/frontend-project-44.git
 cd frontend-project-44
 npm link
 ```
-**asciinema of each step**
 ## Start game "Brain even"
 ```sh
 brain-even
