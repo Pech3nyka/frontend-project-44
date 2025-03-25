@@ -7,9 +7,12 @@ export default [
       globals: globals.node,
     },
     rules: {
-      indent: ['error', 2],
-      'arrow-body-style': ['error', 'as-needed'],
-    },
+      'indent': ['error', 2, {
+        'SwitchCase': 1,
+        'ignoredNodes': ['TemplateLiteral']
+      }],
+      'no-trailing-spaces': 'error'
+    }
   },
   pluginJs.configs.recommended,
 ];

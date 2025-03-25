@@ -3,7 +3,7 @@ import greetUser from './cli.js';
 
 const runGame = (gameDescription, generateQuestionAndAnswer) => {
   const name = greetUser();
-  
+
   console.log(gameDescription);
 
   for (let correctAnswers = 0; correctAnswers < 3; correctAnswers += 1) {
